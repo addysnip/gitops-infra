@@ -1,0 +1,5 @@
+resources:
+- ../../base
+patches:
+- patch-redis.yaml
+- patch-sentinel.yaml
