@@ -1,4 +1,4 @@
-namespace: rabbit
+defaultNamespace: rabbitmq
 targetCustomizations:
 - name: dev
   clusterSelector:
